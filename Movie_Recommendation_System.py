@@ -1,16 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 18 15:30:38 2019
 
-@author: Deepali
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 18 12:36:40 2019
-
-@author: Deepali
-"""
 
 from tkinter import *
 import os
