@@ -1,0 +1,554 @@
+index	title	release date	hero	heroine	director	genre	ratings
+1	Raees	2017	Shahrukh Khan	Mahira Khan	Rahul Dholakia	Action,Crime,Drama	6.8
+2	Kaabil	2017	Hritik Roshan	Yami Gautam	Sanjay Gupta	Action,Drama,Thriller	7.1
+3	Jab Harry Met Sejal	2017	Shahrukh Khan	Anushka Sharma	Imtiaz Ali	Comedy,Romance,Drama	5.3
+4	Tiger Zinda Hai	2017	Salman Khan	Katrina Kaif	Ali Abbas Zafar	Action,Adventure,Thriller	6
+5	Jolly LLB 2	2017	Akshay Kumar	Huma Qureshi	Subhash Kapoor	Comedy,Drama	7.2
+6	Toilet - Ek Prem Katha	2017	Akshay Kumar	Bhumi Pednekar	Shree Narayan Singh	Comedy,Drama	7.3
+7	Secret Superstar	2017	Amir Khan	Zaira Wasim	Advait Chandan	Drama,Musical	7.9
+8	Hindi Medium	2017	Irrfan Khan	Saba Qamar	Saket Chaudhary	Comedy,Drama	7.8
+9	The Ghazi Attack	2017	Rana Daggubati	Tapsee Pannu	Sankalp Reddy	Action,Thriller,War	7.6
+10	Jagga Jasoos	2017	Ranbir Kapoor	Katrina Kaif	Anurag Basu	Action,Adventure,Comedy	6.4
+11	Shaadi Mein Zaroor Aana 	2017	Rajkumar Rao	Kriti Karbhanda	Ratnaa Sinha	Drama,Family,Romance	7.6
+12	Newton	2017	Rajkumar Rao	Anjali Patil	Amit Masurkar	Drama	7.7
+13	Bareilly Ki Barfi	2017	Ayushman Khurana	Kriti Sanon	Ashwiny Tiwari	Comedy,Drama	7.5
+14	Golmaal Again	2017	Ajay Devgan	Parineeti Chopra	Rohit Shetty	Action,Comedy,Fantasy	5
+15	Ittefaq	2017	Sidharth Malhotra	Sonakshi Sinha	Abhay Chopra	Mystry,Thriller	7.2
+16	Badshaho	2017	Ajay Devgan	Ileana D'Cruz	Milan Luthria	Action,Thriller	4.9
+17	Nama Shabana	2017	Manajo Bajpayee	Tapsee Pannu	Shivam Nair	Action,Thriller	6.3
+18	A Gentleman	2017	Sidharth Malhotra	Jaqline Fernandes	Raj Nidimoru	Action,Comedy	6.3
+19	Phillauri	2017	Diljit Dosanjh	Anushka Sharma	Anshai Lal	Comedy,Drama,Fantasy	6.1
+20	Shubh Mangal Saavdhan	2017	Ayushman Khurana	Bhumi Pednekar	R. S. Prasanna 	Comedy,Romance,Drama	6.9
+21	Mukkabaaz	2018	Jimmy Sheirgil	Zoya Hussain	Anurag Kashyap	Action,Drama,Sport	8.1
+22	Padmaavat	2018	Shahid Kapoor	Deepika Padukone	Sanjay Leela Bhansali	Drama,History,Romance	7
+23	Tumbbad	2018	Sohum Shaha	Jyoti Malshe	Rahi Anil Barve	Drama,Fantasy,Horror	8.2
+24	October	2018	Varun Dhawan	Banita Sandhu	Shoojit Sircar	Drama,Romance	7.5
+25	Raid	2018	Ajay Devgan	Ileana D'Cruz	Rajkumar Gupta	Action,Crime,Drama	7.4
+26	Hichki	2018	Rohit Saraf	Rani Mukerji	Siddharth Malhotra	Comedy,Drama	7.5
+27	Karwaan	2018	Irrfan Khan	Mithila Palkar	Akarsh Khurana	Comedy,Drama	7.5
+28	Gold	2018	Akshay Kumar	Mouni Roy	Reema Kagti	Drama,Histiory,Sport	7.3
+29	Sonu Ke Tittu Ki Sweety	2018	Kartik Aryan	Nushrat Bharucha	Luv Ranjan	Comedy,Romance	7.1
+30	102 Not Out	2018	Amitabh Bachchan		Umesh Shukla	Comedy,Drama	7.5
+31	Parmanu	2018	John Abraham	Diana Penty	Abhishek Sharma	Action,Drama,History	7.7
+32	Blackmail	2018	Irrfan Khan	Kirti Kulhari	Abhinay Deo	Comedy,Thriller	7
+33	Pataakha	2018	Sunil Grover	Saniya Malhotra	Vishal Bhardwaj	Comedy,Action,Drama	7.2
+34	SuiDhaaga	2018	Varun Dhawan	Anushka Sharma	Sharat Kataria	Comedy,Drama	6.8
+35	Soorma	2018	Diljit Dosanjh	Taapsee Pannu	Shahad Ali	Drama,Biography,Sport	7.4
+36	Mannmarziya	2018	Vicky Kaushal	Taapsee Pannu	Anurag Kashyap	Romance	6.9
+37	Padman	2018	Akshay Kumar	Sonam Kapoor	R.Balki	Comedy,Drama	8
+38	Pari	2018	Rajat Kapoor	Anushka Sharma	Prosit Roy	Fantasy,Horror,Mystry	6.6
+39	3 Storeys	2018	Tarun Anand	Richa Chaddha	Arjun Mukerjee	Drama	7.1
+40	Baaghi 2	2018	Tiger Shrof	Disha Patani	Ahmed Khan	Action,thriller	5
+41	Raazi	2018	Vicky Kaushal	Alia Bhatt	Meghna Gulzar	Action,Drama,Thriller	7.8
+42	Kaala	2018	Rajnikanth	Huma Qurashi	Pa.Ranjth	Action,Drama	6.8
+43	Sanju	2018	Ranbir Kapoor	Anushka Sharma	Rajkumar Hirani	Biography,Drama	7.9
+44	Mulk	2018	Rishi Kapoor	Taapsee Pannu	Anubhav Sinha	Drama	6.6
+45	Satyameva Jayte	2018	John Abraham	Aisha Sharma	Milap Javeri	Action,Thriller	5.6
+46	Stree	2018	Rajkumar Rao	Shraddha Kapoor	Amar Kaushik	Comedy,Horror	7.7
+47	Andhadhun	2018	Ayushman Khurana	Tabu	Sriram Raghwan	Crime,Thriller	8.4
+48	Badhaai Ho	2018	Ayushman Khurana	Saniya Malhotra	Amit Sharma	Comedy,Drama	8
+49	Bazzar	2018	Saif Ali Khan	Radhika Apte	Gauravv Chavla	Crime,Thriller,Drama	6.6
+50	2.o	2018	Akshay Kumar	Amy Jackson	S.Shankar	Action,Sci-FI	6.4
+51	Zero	2018	Shah Rukh Khan	Anushka Sharma	Annand L. Rai	Comedy,Drama,Romance	5.6
+52	Simmba	2018	Ranveer Singh	Sara Ali Khan 	Rohit Shetty	Action,Comedy,Drama	6.3
+53	Dangal	2016	Aamir Khan	Fatima Sana Shaikh	Nitesh Tiwari	Action, Biopic, Drama	8.4
+54	Airlift	2016	Akshay Kumar	Nimrat Kaur	Raja Menon	Drama, History	8
+55	Dear zindagi	2016	Shahrukh Khan	Alia Bhatt	Gauri Shinde	Drama, Romance	7.6
+56	M. S. Dhoni:  the untold story	2016	Sushant Singh Rajput	Kiara  Advani	Niraj Pandey	Drama, Biopic, Sports	7.7
+57	Sultan	2016	Salman Khan	Anushka Sharma	Ali Abbas Zafar	Action, Drama, Sport	7.1
+58	Pink	2016	Amitabh Bachchan	Taapsee Pannu	Aniruddha roy chaudhary	Drama, Thriller	6.2
+59	Shivaay	2016	Ajay Devgan	Sayyesha Saighal	Ajay Devgan	Action, Drama, Thriller	8.2
+60	Rustom	2016	Akshay Kumar	Ileana D'Cruz	Dharmendra Suresh Desai	crime, Drama, thriller	7.1
+61	Udta Punjab	2016	Shahid Kapoor	Alia Bhatt	Abhishekh chaubey	Action, crime, Drama	7.8
+62	Kapoor and sons	2016	Sidharth Malhotra	Alia Bhatt	Shakun Batra	Comedy, Drama, Romance	7.7
+63	Mohenjo daro	2016	hritik Roshan	Pooja Hegde	Ashutosh Gowariker	Action, Adventure, Drama 	5.7
+64	Sanam Teri Kasam	2016	Harshvardhan Rane	Mawra hocane	Radhika Rao	Drama, Romance, Musical	7.3
+65	Wazir	2016	Farhan Akhtar	Aditi Roy hyadri	Bejoy Nambair	Action, crime, Drama	7.1
+66	Ae dil hain Mushkil	2016	Ranbir Kapoor	Anushka Sharma 	Karan Johar	Drama, Musical	5.6
+67	Ghayal Once Again	2016	Sunny Deol	Soha Ali khan	Sunny Deol	Action,Drama	6.4
+68	Saala Khadoos	2016	R Madhavan	Radha Rave	Sudha Kongara	Action,Drama,Sports	7.6
+69	Teen	2016	Amitabh Bachchan	Vidya Balan	Ribhu Dasgupta	Drama, Mystry, Thriller	7.3
+70	Azhar	2016	Emraan Hashmi	Nargiz Fakhri	Anthony Dsouza	Biopic, Drama, Sport	5.8
+71	Sarabjit	2016	Randeep Hooda	Aishwarya rai	Omung Kumar	Biopic,Drama	7.2
+72	Baaghi	2016	Tiger Shrof	Shraddha Kapoor	Sabir  Khan	Action, Thriller	5.2
+73	Baar Baaar Dekho	2016	Sidharth Malhotra	Katrina Kaif	Nitya Mehra	Comedy,Drama,Romance	5.3
+74	Dhishoom	2016	John Abraham	Jacqline Fernandez	Rohit Dhawan	Action, Adventure,Comedy	5.1
+75	Force 2	2016	John Abraham	Sonakshi Sinha	Abhinay Deo	Action,Thriller	6.2
+76	Ki and Ka	2016	Arjun Kapoor	Kareena Kapoor	R. balki	Comedy, romance	5.8
+77	Bajrangi Bhaijaan	2015	Salman Khan	Kareena Kapoor	Kabir Khan	Action, Comedy, Drama	8
+78	Drisyham	2015	Ajay Devgan	Tabu	Nishikant Kamat	Crime, Drama, Mystery	8.3
+79	Dilwale	2015	Shahrukh Khan	Kajol	Rohit Shetty	Action, Comedy, Romance	5.2
+80	Bajirao Mastani	2015	Ranveer Singh	Deepika Padukone	Sanjay Leela Bhansali	Action, Drama, History	7.2
+81	Manjhi-The Mountain Man	2015	Nawazuddin Siddiqui	Radhika Apte	Ketan Mehta	Adventure, Biopic, Drama	8
+82	Prem Ratan Dhan Payo	2015	Salman Khan	Sonam Kapoor	Sooraj R. Barjatya	Action, Drama, Musical	4.6
+83	Brothers	2015	Akshay Kumar	Jacqline Fernandez	Karan Malhotra	Action, Drama, Sport	6.5
+84	Tamasha	2015	Ranbir Kapoor	Deepika Padukone	Imtiaz Ali	Comedy, Drama, Romance	7.2
+85	Piku	2015	Amitabh Bachchan	Deepika Padukone	Shoojit Sircar	Comedy, Drama, Romance	7.6
+86	Badlapur	2015	Varun Dhawan	Yami Gautam	Sriram Raghwan	Action, Crime, Drama	7.4
+87	Masaan	2015	Vicky Kaushal	Richa Chaddha	Neeraj Ghaywan	Drama	8.1
+88	Dum Laga ke Haisha	2015	Ayushmann Khurrana	Bhumi Pednekar	Sharat Kataria	Comedy, Drama, Romance	7.5
+89	Dil Dhadkne Do	2015	Ranveer Singh	Priyanka Chopra	Zoya Akhtar	Comedy, Drama, Romance	6.8
+90	Hamari Adhuri Kahani	2015	Emraan Hashmi	Vidya Balan	Mohit Suri	Drama, Romance	6.7
+91	Singh is Bliing	2015	Akshay Kumar	Amy Jackson	Prabhu Deva	Action, Comedy	5.1
+92	Any Body Can Dance 2	2015	Varun Dhawan	Shraddha Kapoor	Remo D'souza	Biopic, Drama, Music	5.5
+93	Jazbaa	2015	Irrfan Khan	Aishwarya rai	Sanjay Gupta	Action, Crime, Drama	5.8
+94	Shaandar	2015	Shahid Kapoor	Alia Bhatt	Vikas Bahl	Comedy, Drama, Romance	3.6
+95	Katti Batti	2015	Imran Khan	Kangana Ranaut	Nikkhil Advani	Comedy, Drama, Romance	4.9
+96	Ek Paheli Leela	2015	Rahul Dev	Sunny Leone	Bobby Khan	Mystry, Romance,Thriller	3.7
+97	Hero	2015	Sooraj Pancholi	Athiya Shetty	Nikkhil Advani	Action, Drama, Musical	3.6
+98	Roy	2015	Ranbir Kapoor	Jacqline Fernandez	Vikramjit Singh	Action, Drama, Mystery	3.3
+99	Hunterr	2015	Gulshan Devaiah	Radhika Apte	Harshavardhan Kulkarni	Comedy, romance	7
+100	Talvar	2015	Irrfan Khan	Konkona Sen Sharma	Meghna Gulzar	Crime, Drama, Mystery	8.2
+101	Pk	2014	Aamir Khan	Anushka Sharma	Rajkumar Hirani	Comedy,Drama,Fantasy	8.2
+102	Kick	2014	Salman Khan	Jacqline Fernandez	Sajid Nadiadwala	Action,Comedy	5.3
+103	Bang Bang	2014	hritik Roshan	Katrina Kaif	Siddhart Anand	Action,Adventure	5.5
+104	Two states	2014	Arjun Kapoor	Alia Bhatt	Abhishek Varman	Comedy,Drama,Romance	6.9
+105	Haider	2014	Shahid Kapoor	Shraddha Kapoor	Vishal Bhardwaj	Action,Crime,Drama	8.1
+106	Happy new year	2014	Shahrukh Khan	Deepika Padukone	Farah Khan	Action,Comedy,Music	5.1
+107	Dedh Ishqiyaan	2014	nawazuddin Khan	Madhuri Dixit	Abhishek Chaubey	Comedy,Drama,Romance	7.1
+108	Gunday	2014	Ranveer Singh	Priyanka Chopra	Ali Abbas Zafar	Action,Drama,Romance	2.3
+109	Highway	2014	Randeep Hooda	Alia Bhatt	Imtiaz Ali	Crime,Drama,Romance	7.6
+110	Hasee toh phasee	2014	Sidharth Malhotra	Parineeti Chopra	Vnil Mathew	Comedy,Romance	6.8
+111	Humpty sharma ki dulhaniya	2014	Varun Dhawan	Alia Bhatt	Shashank Khaitan	Comedy,Drama,Romance	6
+112	Hate Story 2	2014	Bhushan Kumar	Survin Chawla	Vishal Pandya	Drama,Thriller	4.4
+113	Jai ho	2014	Salman Khan	Daisy Shah	Sohal Khan	Action,Drama	5.2
+114	Happy ending	2014	Saif Ali Khan	Ileana D'Cruz	Krishna D. K.	Comedy,Romance	5.4
+115	Entertainment	2014	Akshay Kumar	Tamannah Bhatia	Sajid 	Action,Comedy	4.5
+116	Heropanti	2014	Tiger Shrof	Kriti Sanon	Sabir  Khan	Action,Romane	5.3
+117	Singham Returns	2014	Ajay Devgan	Kareena Kapoor	Rohit Shetty	Action,Drama	5.7
+118	Holiday	2014	Akshay Kumar	Sonakshi Sinha	A.R.Murrugadose	Action,Drama	7.2
+119	Main tera hero	2014	Varun Dhawan	Ileana D'Cruz	David Dhavan	Comedy,Action,Romance	5.2
+120	Mary Kom	2014	Sunil Thapa	Priyanka Chopra	Oumang Kumar	Action,Biography,Drama	6.8
+121	Finding Fanny	2014	Arjun Kapoor	Deepika Padukone	Homi Adajania	Adventure,Comedy,Drama	5.8
+122	Khoobsurat	2014	Fawad Khan	Sonam Kapoor	Shashank Ghosh	Comedy,Romace	6.4
+123	Ek villain	2014	Sidharth Malhotra	Shraddha Kapoor	Mohit Suri	Action,Crime,Drama	6.4
+124	Shaadi ke Side Effects	2014	Farhan Akhtar	Vidya Balan	Saket Chaudhary	Comedy,Romance	5.6
+125	Youngistaan	2014	Jackky Bhagnani	Neha Sharma	Sayed Ahmad Afzal	Drama	5.1
+126	Raja nathwarlal	2014	Emraan Hashmi	Humanima Malik	Kunal Deshmukh	Crime,Thriller	6.1
+127	Kil dil	2014	Ranveer Singh	Parineeti Chopra	Shaad Ali	Action,Drama,Romance	4.3
+128	Bewakoofiyaan	2014	Ayushman Khurana	Sonam Kapoor	Nupur Asthana	Comedy,Drama,Romance	5.5
+129	Humshakals	2014	Saif Ali Khan	Tamannah Bhatia	Sajid Khan	Comedy	1.8
+130	Dawat E ishq	2014	Aditya Roy Kapoor	Parineeti Chopra	Habib Faisal	Comedy,Drama,Romance	6.1
+131	Yaariyaan	2014	Himansh Kohli	Rakul Preet Singh	Divya Khosala Kumar	Drama,Romance	2.7
+132	Bhaag Milka Bhaag	2013	Farhan Akhtar	Sonam Kapoor	Rakeysh Omprakash Mehra	Drama	8.2
+133	Chennai Express	2013	Shahrukh Khan	Deepika Padukone	Rohit Shetty	Action,Comedy,Romance	6
+134	Yeh Jawani Hai Deewani	2013	Ranbir Kapoor	Deepika Padukone	Ayan Mukherji	Drama,Romace	7.1
+135	Dhoom 3	2013	Aamir Khan	Katrina Kaif	Vijay Krishna Acharya	Crime,thriller,adventure	5.4
+136	Special 26	2013	Akshay Kumar	Kajal Agarwal	Neeraj pandey	Drama,Crime	8
+137	Ashiqui 2	2013	Aditya Roy Kapoor	Shraddha Kapoor	Mohit Suri	Drama,Romance	7
+138	Lootera	2013	Ranveer Singh	Sonakshi Sinha	Vikramaditya Motwane	Drama	7.3
+139	Raanjhaana	2013	Dhanush	Sonam Kapoor	Aanand L. Rai	Romance	7.6
+140	Krrish 3	2013	hritik Roshan	Priyanka Chopra	Rakesh Roshan	Action,Romance	6.3
+141	Race 2	2013	Saif Ali Khan	Deepika Padukone	Mustan burmawala	Action,Crime,Drama	5.3
+142	Ram leela	2013	Ranveer Singh	Deepika Padukone	Sanjay Leela Bhansali	Drama,Romance,Action	6.4
+143	R Rajkumar	2013	Shahid Kapoor	Sonakshi Sinha	Prabhu Deva	Action	5.2
+144	Once upon a time in mumbai dobara	2013	Akshay Kumar	Sonakshi Sinha	Milan Luthria	Drama,Action,Romance	4.6
+145	Ramaiya vastavayya	2013	Girish Kumar	Shruti Hasan	Prabhu Deva	Drama	5.6
+146	Phata Poster Nikla Hero	2013	Shahid Kapoor	Ileana D'Cruz	Rajkumar Santoshi	Comedy,Action,Romance	4.8
+147	Queen	2013	Rajkumar Rao	Kangana Ranaut	Vikas Bahl	Comedy,Drama	8.2
+148	Bullet Raja	2013	Saif ali khan	Sonakshi Sinha	Tigmanshu Dhulia	Drama,Crime	5
+149	Mickey Virus	2013	manish paul	Elli Avram	Saurabh Varma	Comedy,thriller	6.1
+150	I, me aur main	2013	John Abraham	Prachi Desai	Kapil Sharma	Romance,Comedy	4.6
+151	Besharam	2013	Ranbir Kapoor	Pallavi Sharda	Abhinav Kashyap	Comedy	3.6
+152	Barfi	2012	Ranbir Kapoor	Priyanka Chopra	Anurag Basu	Comedy,Drama	8.1
+153	Vicky Donar	2012	Ayushman Khurana	Yami Gautam	Shoojit Sircar	Comedy,Romance	7.8
+154	Gangs of Wassaypur	2012	Nawazuddin Siddiqui	Huma Qurashi	Anurag Kashyap	Action,Thriller,Drama	8.2
+155	Agneepath	2012	Hrithik Roshan	Priyanka Chopra	Karan Malhotra	Action,Drama	6.9
+156	Talash	2012	Aamir khan	Kareena Kapoor	Suneel Darshan	Thriller	4.7
+157	Ek tha Tiger	2012	Salman khan	Katrina Kaif	Kabir Khan	Thriller	5.5
+158	Cocktail	2012	Saif Ali Khan	Diana Penty	Homi Adajania	Drama	6.3
+159	Rowdy Rathore	2012	Akshay Kumar	Sonakshi Sinha	prabhu Deva	thriler, Action	5.7
+160	Jab Tak Hain Jaan	2012	Shahrukh khan	Katrina Kaif	yash chopra	Drama,Romance	6.7
+161	Bol Bacchan	2012	Ajay Devgan	Prachi Desai	Rohit Shetty	Comedy	5.5
+162	Student of the Year	2012	Varun Dhawan	Alia Bhatt	Karan Johar	drama	5.4
+163	Dabbang 2	2012	Salman khan	Sonakshi Sinha	arbaaz khan	Drama,Action,Romance	4.9
+164	Son of Sardar	2012	Ajay Devgan	Sonakshi Sinha	ashwini dhir	Comedy, Action	4
+165	Shanghai	2012	Emraan Hashmi	Kalki Koechhlin	Dibakar Banarjee	 	7.2
+166	Raaz 3	2012	Emraan Hashmi	Esha Gupta	Vikram Bhatt	Drama	4
+167	Agent Vinod	2012	Saif Ali Khan	Kareena Kapoor	Sriram Raghwan	Action	5.1
+168	Khiladi 786	2012	Akshay Kumar	Asin	Ashish Mohan	Action,Comedy	4.2
+169	Ek Main Aur Ek tu	2012	Imran Khan	Kareena Kapoor	Sakun batra	Drama,Romance	5.7
+170	Jannat 2	2012	Emraan Hashmi	Esha Gupta	Kunal Deshmukh	Thriller	6.1
+171	Joker	2012	Akshay Kumar	Sonakshi Sinha	shirish kunder	Fantasy	2.4
+172	Teri Meri kahani	2012	Shahid Kapoor	Priyanka Chopra	Kunal Kohli	Romance,Drama	4.7
+173	Tere Naal love ho gaya	2012	Ritesh Deshmukh	Genelia Desouza	Mandeep kumar	romance	5.8
+174	Housefull 2	2012	Akshay Kumar	Deepika Padukone	sajhid khan	comedy,Drama	5.2
+175	Kya superkool hai hum	2012	Tushar Kapoor	Neha Sharma	Sachin yadri	Comedy 	5
+176	Tezz	2012	Ajay Devgan	Kangana Ranaut	Priyadarshan	Drama,Thriller	3.7
+177	Ajab Gajab Love	2012	Jackky Bhagnani	Nidhi Subbaih	Sanjay Gadhavi	Romance,Drama	4.7
+178	Hate Story 	2012	Gulshan Devaiah	Paoli Dam	Vivek Agnihotri	thriller	5.3
+179	Ghost	2012	Shiney Ahuja	Sayali Bhagat	Puja Bedi	Horror	2.2
+180	Bittu Boss	2012	Pulkit smraat	amrita pathak	supavitra babul	Romance	4.1
+181	Chaar din ki chandani	2012	Tushar Kapoor	Kulraj randhawa	samir karnik	Romance	4.1
+182	Ferrari ki sawari	2012	Sharman Joshi	vidya Balan	Rajesh Mapuskar	comedy,sports	6.4
+183	Luv shuv te chiken khurana 	2012	Kunal kapoor	Huma Qurashi	Sameer sharma	comedy	6.6
+184	Bumboo	2012	Kavin Dave	Mandy Takhar	Jagdish Rajpurohit	Drama, Action	7.2
+185	1920: the Evil Returns	2012	Aftab Shivdasani	Tia Bajpai	Bhushan Patel	Drama, Thriller	4.8
+186	Blood Money	2012	Kunal Khemu	Amrita Puri	Vishal Mahadkar	Drama, Thriller	5.2
+187	Zindagi na milegi dobara	2011	Hrithik Roshan	Katrina Kaif	Zoya Akhtar	Drama, Romance	8.1
+188	Don 2	2011	Shahrukh khan	Priyanka Chopra	Farah Akhtar	Drama, Crime	7
+189	Delhi Belly	2011	Imran Khan	Shenaz Treasury	Abhinay Deo	Drama, Action	7.5
+190	The Dirty Picture	2011	Emraan Hashami	Vidya Balan	Milan Luthria	Drama, Comedy	6.6
+191	Bodyguard	2011	Salman Khan	Kareena Kapoor	Siddique	Action, Romance	4.6
+192	Rockstar	2011	Ranbir Kapoor	Nargiz Fakhri	Imtiaz Ali	Drama, Musical	7.7
+193	Raone	2011	Shahrukh Khan	Kareena Kapoor	Anubhav Sinha	Sci-Fi, Action	4.6
+194	Singham	2011	Ajay Devgan	Kajal Agarwal	Rohit Shetty	Action, Drama	6.2
+195	Ready	2011	Salman Khan	Asin	Anees Bazmee	Drama, Action	4.7
+196	Tanu Weds Manu	2011	R Madhavan	Kangana Ranaut	Aanand L. Rai	Drama, Romance	6.7
+197	Murder 2	2011	Emraan Hashmi	Jacqline Fernandez	Mohit Suri	Thriller, Drama	6.2
+198	Yeh Saali Zindagi	2011	Irrfan Khan	Chitrangada Singh	Sudhir Mishra	Thriller	7.5
+199	Yamala Paghala Deewana	2011	Sunny Deol	Kulraj randhawa	samir karnik	Drama, Comedy	5.6
+200	Mausam	2011	Shahid Kapoor	Sonam Kapoor	Pankaj Kapoor	Thriller, Drama	4.7
+201	Patiala House	2011	Akshay Kumar	Anushka Sharma	Nikkhil Advani	Sport	5.6
+202	Desi Boyz	2011	Akshay Kumar	Chitrangada Singh	Rohit Dhawan	Drama, Romance	5.7
+203	Pyaar ka Punchnama	2011	Kartik Aryan	Nushrat Bharucha	Luv Ranjan	Drama, Romance	7.7
+204	Aarakshan	2011	Saif Ali Khan	Deepika Padukone	Prakash Jha	Thriller	6.2
+205	Mujhse Fraandship karoge	2011	Saqib Saleem	Saba Azad	Nupur Asthana	Drama	6.9
+206	Force	2011	John Abraham	Genelia Desouza	Nishikant Kamat	Drama	6.4
+207	Game	2011	Abhishekh Bachchan	Kangana Ranaut	Abhinay Deo	Drama, Action	5.1
+208	Dum Maro Dum	2011	Abhishekh Bachchan	Bipasha Basu	Rohan Sippy	Thriller, Drama	6.2
+209	Thank you	2011	Akshay Kumar	Sonam Kapoor	Anees Bazmee	Drama, Romance	4.6
+210	Rascals	2011	Ajay Devgan	Kangana Ranaut	David Dhavan	Drama, Action	2.9
+211	Ladies vs ricky Bahl	2011	Ranveer singh	anushka sharma	Maneesh Sharma	Drama	5.9
+212	F.A.L.T.U.	2011	Jackky Bhagnani	Puja Gupta	Remo D'souza	Drama, Comedy	4.6
+213	Buddha Hoga Tera baap	2011	Amitabh Bachchan	Hema Malini	Puri Jagannadh	Thriller, Drama	5.6
+214	Luv ka the end	2011	Taaha Shah	shraddha Kapoor 	Bumpy	Drama	4.8
+215	Always Kabhi Kabhi	2011	Shahrukh Khan	Giselli Monteiro	Roshan Abbas	Drama, Romance	4
+216	Tell Me o khuda	2011	Dharmendra	Hema Malini	Hema Malini	Drama, Action	2.5
+217	Love you mr kalakaar	2011	Tushar Kapoor	Amrita Rao	S. Manasvi	Drama, Romance	5.4
+218	Dabangg	2010	salman Khan 	sonakshi sinha 	Abhinav Kashyap	Crime, Thriller	6.3
+219	Band Baja Baaraat	2010	ranveer singh 	anushka Sharma 	Maneesh Sharma	Drama,Romance	7.2
+220	Once upon a time in mumbai	2010	ajay devgan	prachi desai	Milan Luthria	Drama, Crime	7.4
+221	Karthik calling Karthik	2010	Farhan Akhtar	Deepika Padukone	Vijay Lalwani	Thriller, Drama	7
+222	Tere Bin Laden	2010	Ali Zafar	Sugandha Garg	Abhishek Sharma	Drama, Musical	7.2
+223	Housefull	2010	Akshay Kumar	Deepika Padukone	Sajid Khan	Drama, Romance	5.3
+224	Guzaarish	2010	Hrithik Roshan	Aishwarya rai	Sanjay Leela Bhansali	Drama, Romance	7.4
+225	Fas gaye re obama	2010	Rajat Kapoor	Neha Dhupia	Shubhash Kapoor	Comedy	7.5
+226	Anjaana Anjaani	2010	Ranbir Kapoor	Priyanka Chopra	Siddharth Anand	Comedy, Music	5.8
+227	Golmaal 3	2010	ajay devgan	Kareena Kapoor	Rohit Shetty	Drama	5.4
+228	Do dooni chaar	2010	Rishi Kapoor	Neetu singh	Habib Faisal	Drama	7.6
+229	I hate love stories	2010	Imran Khan	Sonam Kapoor	Punit Malhotra	Comedy, Music	5.6
+230	Tees Maar Khan	2010	Akshay Kumar	Katrina Kaif	Farah Khan	Comedy, Music	2.5
+231	Khatta Meetha	2010	Akshay Kumar	Trisha Krishnan	Priyadarshan	Comedy, Music	5.6
+232	Paan Singh Tomar	2010	Irrfan Khan	Mahie Gill	Tigmanshu Dhulia	Drama	8.2
+233	Dhobhi Ghaat	2010	Amir Khan	Monica Dogra	Kiran Rao	Drama, Romance	7
+234	Action Replayy	2010	Akshay Kumar	Aishwarya rai	Vipul Shah	Comedy, Music	4.2
+235	Veer	2010	Salman Khan	Zareen Khan	Anil Sharma	Drama, Action	4.5
+236	We are family	2010	arjun rampal	Kareena Kapoor	siddharth malhotra	comedy,musical	5.6
+237	Aisha	2010	abhay deol	Sonam Kapoor	rajshree ojha	drama	5
+238	Pyaar Impossible	2010	uday chopra	Priyanka Chopra	jughal hansraj	comedy.music	4.6
+239	Break ke baad	2010	Imran Khan	Deepika Padukone	danish aslam	comedy.,music,drama	5.2
+240	No Problem	2010	anil kapoor	Kangana Ranaut	ansee bazmee	comedy,music ,drama	4.2
+241	Chance pe dance	2010	Shahid Kapoor	Genelia Desouza	ken gosh	comedy music drama	4.7
+242	Badmaash Company	2010	Shahid Kapoor	anushka sharma	parmeet sethi	drama	6
+243	Jootha Hi sahi	2010	John Abraham 	paakhi tyrewala	abbas tyrewala	drama ,romance	6.1
+244	Crook	2010	emraan hashmi	Neha Sharma	Mohit Suri	thriller,action	5
+245	Shor in the city	2010	tushar kapoor	radhika apte	krishna d.k	drama,crime	7.2
+246	Dulha Mil gaya	2010	Shahrukh Khan	sushmita sen	mudassar aziz	drama	4.2
+247	Khelein hum jee jaan se	2010	Abhishekh Bachchan	Deepika Padukone	Ashutosh Gowariker	drama ,action	5.9
+248	Lafangey Parinde	2010	neil nitin mukesh	Deepika Padukone	pradeep sarkar	drama	5.2
+249	Aashanyein	2010	john abraham	sonal sehgal	nagesh kukunoor	comed,music,rama	7.1
+250	Knock out	2010	sanjay dutt	Kangana Ranaut	mani shankar	thriller	5.9
+251	Shaapit	2010	aditya narayan	shweta agarwal	vikram bhatt	thriller	5.5
+252	Milenge Milenge	2010	Shahid Kapoor	Kareena Kapoor	satish kaushik	drama,romance	4.1
+253	3 Idiots	2009	Aamir Khan	Kareena Kapoor	Rajkumar Hirani	drama	8.4
+254	Dev D.	2009	abhay deol	Mahie Gill	Anurag Kashyap	drama,romance	8
+255	Wanted	2009	Salman Khan	Aisha takiya	prabhu Deva	thriller	6.6
+256	Kaminey	2009	Shahid Kapoor	Priyanka Chopra	Vishal Bhardwaj	thriller ,drama	7.4
+257	Love aaj kal	2009	Saif Ali Khan	Deepika Padukone	Imtiaz Ali	comedy,music,drama	6.8
+258	Wake up sid	2009	Ranbir Kapoor	konkona sen sharma	Ayan Mukherji	drama ,romance	7.6
+259	Ajab prem ki gazab kahani	2009	Ranbir Kapoor 	katrina kaif	Rajkumar Santoshi	 comedy,music	6.3
+260	Paa	2009	Amitabh Bachchan	Vidya Balan	r.baki	drama	7.2
+261	luck by chance	2009	hritik Roshan	konkona sen sharma	Zoya Akhtar	drama	7
+262	kambakht ishq	2009	Akshay Kumar	Kareena Kapoor	Sabir  Khan	drama	3.8
+263	kurbaan	2009	Saif Ali Khan	Kareena Kapoor	reansil.d'silva	drama,thriller	5.7
+264	chandani chowk to china	2009	Akshay Kumar	Deepika Padukone	Nikkhil Advani	fantasy,comedy,music	4
+265	Aaladin	2009	Ritesh Deshmukh	Jacqline Fernandez	sujoy gosh	fantasy ,drama	4.6
+266	New york	2009	john abraham	katrina kaif	Kabir Khan	thriller	6.8
+267	Dil bole Hadippa	2009	Shahid Kapoor	rani mukerji	anurag singh	drama	4.5
+268	Raaz 3	2009	emraan khan	esha gupta	vikram bhatt	drama	4
+269	Delhi 6	2009	Abhishekh Bachchan	Sonam Kapoor	Rakeysh Omprakash Mehra	drama,comedy,music	6
+270	De Dana Dan	2009	Akshay Kumar	katrina kaif	Priyadarshan	drama music	5.3
+271	Billu	2009	Shahrukh Khan	Kareena Kapoor	Priyadarshan	drama comey	6.1
+272	Life partner	2009	fardeen khan	Genelia Desouza	rumi jaffer	comedy, music	5.2
+273	nintynine	2009	kunal khemu	simone singhe	Krishna D K	comedy,music	7.3
+274	Whats your rashee	2009	Harman Baweja	Priyanka Chopra	Ashutosh Gowariker	comedy, music	4.6
+275	Do knot Disturb	2009	Govinda	Lara Dutta	David Dhavan	Drama,Comedy	3.6
+276	blue	2009	Akshay Kumar	katrina kaif	Anthony Dsouza	Thriller	3.7
+277	Sikander	2009	Parzan Dastur	Ayesha Kapur	Piyush Jha	thriller,drama	6.4
+278	Tum Mile	2009	Emraan hashmi	Soha Ali Khan	Kunal Deshmukh	Comedy, Romance	4.9
+279	Jai veeru	2009	kunal khemu	Anjana Sukhani	puneet sira	Drama	3.5
+280	Aaloo Chatt	2009	Aftab Shivdasani	Amna sharif	Robby Grewal	comedy,music	5.8
+281	Shortkut	2009	anil kapoor	amrita rao	neeraj vora	comedy,music ,musical	3.4
+282	Paying guest	2009	vatsal sheth	calina jaitly	paritosh painter	drama	4.2
+283	Main aur Mrs Khanna	2009	salman khan	Kareena Kapoor	prem raj	comedy,music	3.6
+284	Aah Dekhen Zara	2009	niel nitin mukesh	Bipasha Basu	viki rajani	thriller	5
+285	London Dreams	2009	Salman Khan	Asin	vipul shah	Drama	5.4
+286	Chintu ji	2009	Rishi Kapoor	Kulraj randhawa	bobby bedi	drama	5.8
+287	victory	2009	Harman Baweja	amrita rao	ajit palmangat	sport	3.7
+288	Sankat city	2009	k. k. Menon	rimi sen	pankaj advani	thriller,drama	6.2
+289	Aao wish kare	2009	Aftab Shivdasani	Amna sharif	glen parrito	drama, fantasy	5.1
+290	Dhoondte Reh jaaoge	2009	kunal khemu	Soha Ali Khan	umesh shukla	comedy,music	5.6
+291	Jail	2009	neil nitin mukesh	mugdha godse	madhur bhandarkar	drama	6.2
+292	Ghajani	2008	Aamir Khan	Asin 	A R Murugadoss	drama,mystry	7.3
+293	Jodha Akbar	2008	Hrithik Roshan	Aishwarya Rai	Ashutosh Gowariker	Drama,Action,Romance	7.6
+294	Singh is King	2008	Akshay Kumar	Katrina Kaif	Anees Bazmee	crime,comedy,music	5.6
+295	Rab ne bana di jodi	2008	Shahrukh khan	Anushka Sharma	aditya chopra	drama	7.1
+296	Dostana	2008	John Abraham 	Priyanka Chopra 	tanu mansukhani	comedy,music,drama	6.5
+297	Rock on	2008	Farhan Akhtar	prachi desai	abhishek kapoor	drama,music	7.8
+298	Jaane tu ya jaane na	2008	Imran Khan	Genelia Desouza	abbas tyrewala	comedy,music	7.5
+299	Golmaal Returns	2008	Ajay devgan	Kareena Kapoor	Rohit shetty	drama	5.1
+300	Race	2008	Saif Ali khan	Katrina Kaif	Mustan burmawala	drama,crime	6.6
+301	oye lucky lucky oye	2008	abhay deol	neetu chandra	Dibakar Banarjee	Crime	7.7
+302	mumbai meri jaan	2008	R Madhavan	Soha Ali Khan	Nishikant Kamat	drama,musical	7.7
+303	bachana ae haseeno	2008	Ranbir Kapoor	Deepika Padukone	sidharth anand	drama	6.2
+304	Yuvraaj	2008	salman khan	Katrina Kaif	subhash ghai	comedy,music	4.1
+305	welcome to sajjanpur	2008	shreyas talpade	amrita rao	shyam benegal	comedy,music	6.9
+306	jannat	2008	Emraan hashmi	sonal chauhan	Kunal Deshmukh	drama	6.9
+307	Wednesday	2008	nasarudeen shah	Deepal Shaw	Neeraj pandey	drama,mystry	8.1
+308	Bhootnath	2008	Amitabh bachhan 	Juhi Chawala	vivek sharma	Comedy,Fantasy,Music	6.3
+309	Fashion	2008	Arjan Bajwa	Priyanka Chopra	madhur bhandarkar	Drama	6.9
+310	Mere Baap pehle aap	2008	akshaye khanna	genelia Desouza	Priyadarshan	comedy,drama,music	5.3
+311	God tussi great ho	2008	Salman Khan	Priyanka Chopra	rumi jaffer	comedy,drama	3.6
+312	one two three	2008	paresh raval	neetu chandra	ashwini dhir	comedy,music	5.2
+313	kindnap	2008	Imran Khan	minissha lamba	Sanjay Gadhavi	thriller	4.6
+314	karz	2008	himesh Reshamiyan	Urmila Matondkar	satish kaushik	thriller	2.1
+315	Roadside romeo	2008	Saif Ali khan	Kareena Kapoor	jughal hansraj	Romance,comedy	5.2
+316	ek vivah aisa bhi	2008	sonu sood	isha koppikar	kaushik ghatak	Drama	5.3
+317	Mission istambul	2008	sunil shetty	shriya saran	apoorva lakhia	Drama 	3.4
+318	hallabol	2008	Ajay devgan	Vidya Balan	rajkumar santoshi	Drama	6.1
+319	Jab We Met	2007	Shahid Kapoor	Kareena Kapoor	Imtiaz Ali	Drama,music,comedy	7.9
+320	Chak De! India	2007	Shahrukh khan	sagarika ghatge	shimim amim	Drama	8.2
+321	Guru	2007	Abhishekh Bachchan	Aishwarya Rai	Mani ratnam	Drama,Romance	7.7
+322	Welcome	2007	Akshay Kumar	Katrina Kaif	Anees Bazmee	Drama,Crime	6.8
+323	Om Shanti Om	2007	Shahrukh khan	Deepika Padukone	Farah Khan	Drama,thriller	6.6
+324	Namastey London	2007	Akshay kumar	Katrina kaif	vipul shah	Drama,Romance	7.1
+325	Life in a Metro	2007	Shiney Ahuja	Shilpa shetty 	Anurag basu	Drama,Romance	7.4
+326	Saawaraiya	2007	Ranbir Kapoor	Sonam Kapoor	Sanjay Leela Bhansali	drama	5.3
+327	Bhool Bhulayyia	2007	Akshay kumar	Vidya Balan	Priyadarshan	thriller,mystry	7.2
+328	Partner	2007	Salman Khan	Lara Dutta	David Dhavan	Comedy,Romance,Music	5.7
+329	Bheja Fry	2007	vinay pathak	sarika	sagar ballary	comedy,mudic	7.6
+330	Cheeni Kum	2007	amitabh bachhan 	tabu	R balki	Romance,Comedy	6.8
+331	Shootout at Lokhandwala	2007	sanjay dutt	aarti chabria	apoorva lakhia	drama	7.1
+332	Johny Gaddaar	2007	niel nitin mukesh	rimi sen	Sriram Raghwan	thriller	7.8
+333	Dhamaal	2007	sanjay dutt	suhasini mulay	indra kumar	Comedy	7.2
+334	Traffic Signal	2007	kunal khemu	neetu chandra	madhur bhandarkar	Romance	6.5
+335	Heyy babby	2007	Akshay Kumar	Vidya Balan	Sajid Khan	comedy,Drama	5.9
+336	Ta Ra Rum Pum	2007	Saif Ali khan	Rani Mukharjee	sidharth anand	Drama	5.6
+337	Aaja Nachle	2007	kunal kapoor	Madhuri Dixit	Anil Mehta	Drama	6.3
+338	Apne	2007	Sunny Deol	Katrina kaif	Anil Sharma	sport	6
+339	Awarapan	2007	Emraan hashmi	shriya saran	Mohit Suri	Drama	7.2
+340	Nishabdh	2007	Amitabh Bachhan 	Jiah Khan	Ram Gopal Varma	Drama	5.4
+341	Salaam-E-ishq	2007	Salman Khan 	priyanka chopra	Nikkhil Advani	Drama,music,romance	5.1
+342	Laaga Chunari mein Daag	2007	kunal kapoor	Rani Mukharjee	pradeep sarkar	drama	5.3
+343	Manorama	2007	abhay deol	gul panag	navdeep singh	mystry,crime	7.7
+344	Darling	2007	fardeen khan	isha koppikar	Ram Gopal Varma	Drama	3.8
+345	No smoking	2007	John abraham	Aisha takiya	Anurag Kashyap	thriller,Drama	7.2
+346	Ek chalis ki last local	2007	Abhay deol	Neha Dhupia	Sanjay Khundari	adventure	7.3
+347	Dhan Dhana Dhan Goal	2007	john abraham	Bipasha Basu	Vivek Agnihotri	sport	4.9
+348	Jhoom Barabar jhoom	2007	Abhishek bachhan 	prity zinta	shaad ali	drama	3.7
+349	Ram Gopal Varma ki Aag	2007	ajay devgan	sushmita sen	Ram Gopal Varma	comedy,music	1.7
+350	Cash	2007	ajay devgan	Dia Mirza	Anubhav Sinha	thriller,Drama	3.4
+351	Good boy,Bad boy	2007	Emraan hashmi	tanushree dutta	ashwini chaudhary	comedy	3.7
+352	Fool n Final	2007	Shahid Kapoor	Aisha takiya	Ahmed Khan	Action	3.3
+353	Dil Dosti etc	2007	Shreyas talpade	Nikita Anand	Manish Tiwary	Comedy	7
+354	Gandhi, My father	2007	akshaye khanna	bhumika chawala	feeroz abbas khan	Drama	73
+355	HoneyMoon Travels pvt. ltd.	2007	abhay deol	Ramina sen	Reema khagti	Drama,Romance	6.1
+356	Chhodo na Yaar	2007	jimmy shergil	kim sharma	dilip sood	thriller	4.7
+357	Naqaab	2007	akshaye khanna	urvashi sharma	Mustan burmawala	thriller	5.3
+358	MP3: Mera pehla pehla pyaar	2007	Ruslaan Mumtaaz	Hazel Crowney	Robby Grewal	Drama	7.1
+359	Life Main Kabhie Kabhiee	2007	Aftab Shivdasani	nauheed cryusi	vikram bhatt	thriller	6
+360	Aap ka Suroor	2007	himesh Reshamiyan	hamsika motwani	prashant chadha	Drama	2.1
+361	Dus Kahaniyaan	2007	sanjay dutt	Dia Mirza	sanjay gupta	Drama,thriller	5.7
+362	Khoya Khoya Chand	2007	Shiney Ahuja	Soha Ali Khan	Sudhir Mishra	Drama,Romance	6.3
+363	Speed	2007	zayed Khan	Urmila Matondkar	vikram bhatt	thriller	2.9
+364	Dharm	2007	pankaj kapoor	supriya pathakk	bhavna talwar	Drama	7.9
+365	Buddha Mar Gaya	2007	anupam kher	rakhi sawant	rahul rawail	Comedy,music	2.5
+366	Red: the Dark side	2007	Aftab Shivdasani	calina jaitly	vikram bhatt	thriller	3.3
+367	kaafila	2007	Sunny Deol	Sana Fakhar	Amitoj Maan	Drama	3.4
+368	Eklavya: The Royal Guard	2007	amitabh bachhan 	Vidya Balan	vidhu vinod chopra	thriller	6.1
+369	Rang De Basanti	2006	Aamir Khan 	Soha Ali Khan	Rakeysh Omprakash Mehra	Drama,Comedy,Music	8.2
+370	Lage Raho Munna bhai	2006	Sanjay dutt	Vidya balan	Rajkumar Hirani	Comedy	8.1
+371	Dhoom 2	2006	Hrithik Roshan	Aishwarya rai	Sanjay Gadhavi	Thriller,Comedy	6.5
+372	Fanaa	2006	Aamir Khan	Kajol Mukharjee Devgan	Kunal Kohli	Drama	7.2
+373	Omkara	2006	Ajay devgan	Kareena Kapoor	Vishal Bhardwaj	Drama,Crime	8.1
+374	Krrish	2006	Hrithik Roshan	Priyanka Chopra	Rakesh Roshan	Action,Romance	6.3
+375	Gangster	2006	Shiney Ahuja	Kangana Ranaut	Anurag basu	Drama	7.1
+376	Kabhi Alvida Naa Kehna	2006	Shahrukh khan	Rani Mukharjee	karan johar	Drama	6
+377	Don 2	2006	Shahrukh khan	Priyanka chopra	farhan akhtar	Drama,crime	7
+378	Khosla Ka Ghosla!	2006	anupam kher	tara sharma	Dibakar Banarjee	Comedy,Drama	8.3
+379	Malamaal Weekly	2006	Ritesh Deshmukh	Reema Sen	Priyadarshan	Comedy,Music	6.9
+380	Phir Hera Pheri	2006	Akshay Kumar	Rimi sen	Neeraj Vora	Comedy	6.6
+381	Golmaal: Fun unlimited	2006	Ajay Devgan	Rimi sen	Rohit shetty	Comedy, Music	7.4
+382	Jaan-E-Mann	2006	Akshay Kumar	Preity Zinta	Shirish Kunder	Drama	6
+383	Vivah	2006	Shahid Kapoor	Amrita Rao	Sooraj Barjatya	Drama	6.6
+384	Kabul Express	2006	John Abraham	Linda Arsenio	Kabir Khan	Drama	6.8
+385	Bhagam Bhag	2006	Akshay Kumar	lara dutta	Priyadarshan	Drama,thriller	6.3
+386	Chup Chup ke	2006	Shahid Kapoor	Kareena Kapoor	Priyadarshan	Drama,Romance	6.7
+387	Zinda	2006	Sanjay dutt	lara dutta	sanjay gupta	thriller,Drama	4.9
+388	36 China Town	2006	Shahid Kapoor	Kareena Kapoor	Mustan Burmawalla	Thriller	5.6
+389	Dor	2006	Nagesh Kukunoor	Aisha takiya	nagesh kukunoor	Drama	8
+390	Baabul	2006	Salman Khan	Rani Mukharjee	Ravi chopra	Drama	5.4
+391	Umaro Jaan	2006	Farooq Shaikh	Rekha	Muzaffar ali	Drama	7.8
+392	Corporate	2006	kay kay menon	Bipasha Basu	madhur bhandarkar	Drama	6.5
+393	Pyar ke Side effects	2006	Rahul bose	Mallika Sharawat	Sanket chaudhary	Drama,Romance	6.7
+394	Darna Zaroori Hain	2006	anil kapoor	Mallika Sharawat	Ram Gopal Varma	thriller	5.4
+395	Woh Lamhe	2006	Shiney Ahuja	Kangana Ranaut	Mohit Suri	Drama	6.6
+396	Ahista Ahista	2006	abhay deol	Soha Ali Khan	Shivam Nair	Drama	7
+397	Humko Deewana Kar Gaya	2006	Akshay Kumar	Katrina kaif	Raj kunwar	Drama	5.2
+398	Yun Hota Toh Kya hota	2006	Irrfan Khan	konkona sen sharma	Nasaruddin Shah	Drama	6.7
+399	Fight Club	2006	Sohail Khan	Dia Mirza	Vikram Chopra	Drama	3.2
+400	Pyaare Mohan	2006	Fardeen Khan	Amrita Rao	Indra Kumar	Comedy, Music	3.2
+401	The Killer	2006	Emraan Hashmi	Priyanka Kothari	Hasnain Hyderabadwala	Drama	4.6
+402	Aap ki Khatir	2006	Akshaye Khanna	Priyanka Chopra	Dharmesh Darshan	Romance	3.5
+403	Shaadi Se Pehle	2006	Akshaye Khanna	Ayesha Takia	Satish Kaushik	Comedy, Music	4
+404	Bas ek pal	2006	Sanjay Suri	Urmila Matondkar	Onir	Drama	5.9
+405	Naksha	2006	Sunny Deol	Sameera Reddy	Sachin Bajaj	Action	3.1
+406	Mere Jeevan Saathi	2006	Akshay Kumar	Karisma Kapoor	Suneel Darshan	Romance	3.5
+407	Apna Sapna Money Money	2006	Riteish Deshmukh	Celina Jaitly	Sangeet Sivan	Comedy, Music	5.2
+408	Tathastu	2006	Sanjay dutt	Ameesha Patel	Anubhav Sinha	Drama	4.5
+409	Aryan:Unbreakable	2006	Sohail Khan	Sneha Ullal	Abhishek Kapoor	Drama, Action	4.5
+410	Banaras	2006	Ashmit Patel	Urmila Matondkar	Pankaj Parashar	Drama	6.2
+411	Darwaza Bandh Rakho	2006	Aftab Shivdasani	Manisha Koirala	J. D. Chakravarthy	Drama	5.3
+412	Dil Diya Hai	2006	Emraan Hashmi	Geeta Basra	Aditya Datt	Drama	3.4
+413	Family	2006	Akshay Kumar	bhumika chawala	rajkumar santoshi	Thriller, Drama	5.6
+414	Souten: the other women	2006	Shakti Kapoor	Mahima Chaudhary	Karan Razdan	Thriller	4.8
+415	Black	2005	amitabh bachhan 	Rani Mukerji	Sanjay Leela Bhansali	Drama, Family	8.2
+416	Parineeta	2005	Saif Ali Khan	Vidya Balan	Pradip Sarkar	Drama	7.2
+417	Bunty aur Babli	2005	Abhishek Bachhan	Rani Mukerji	shaad ali	Comedy, Music, Romance	6.2
+418	Iqbal	2005	Shreyas talpade	Shweta Basu Prasad	nagesh kukunoor	Drama	8.1
+419	Sarkar	2005	Vijay	Keerthy Suresh	A.R Murugadoos	Drama, Thriller	6.9
+420	Page 3	2005	Atul Kulkarni	konkona sen sharma	madhur bhandarkar	Drama	7.3
+421	No Entry	2005	Salman Khan	Esha Deol	Anees Bazmee	Comedy,Music	6.6
+422	Salaam Namaste	2005	Saif Ali Khan	Prity Zinta	Sidharth Anand	Drama	6.2
+423	Garam Masala	2005	Akshay Kumar	Neetu Chandra	priyadarshan	Drama,Comedy	6.7
+424	Waqt: the race against time	2005	Akshay Kumar	Priyanka Chopra	vipul shah	Drama	6.8
+425	Paheli	2005	Shahrukh Khan	Juhi chawala	Amol Palekar	Thriller	6.5
+426	Kalyug	2005	Kunal Khemu	Smilie Suri	Mohit Suri	Thriller	6.4
+427	Mangal Pandey	2005	Aamir Khan	Rani Mukharjee	ketan Mehta	Drama,War	6.6
+428	Dus	2005	Sanjay dutt	Shilpa Shetty	Anubhav sinha	thriller	5.5
+429	Maine Pyaar Kyun Kiya	2005	Salman Khan	Sushmita Sen	David Dhavan	Comedy,Music	5.5
+430	Bluffmaster!	2005	Abhishek bachhan 	Priyanka Chopra 	Rohan sippy	Drama	6.6
+431	Kya Kool Hai Hum	2005	Tushar Kapoor 	Isha Koppikar	Sangeeth Sivan	Drama,Mystry	6.1
+432	Socha Na tha	2005	Abhay Deol	Aisha takiya	Imtiaz Ali	Drama,Romance	7.5
+433	Kaal	2005	Ajay Devgan	Esha Deol	Soham Shah	thriller	4.6
+434	Lucky	2005	Salman Khan	Sneha ullal	john carrol Lynch	Drama,Comedy	7.3
+435	Yahaan	2005	Jimmy Shergil	Minissha Lamba	Soojit sircar	Drama	7.4
+436	Main, Meri Patni Aur Woh	2005	Rajpal Yadav	Rituparna Sengupta	Chandan Arora	Drama	7.3
+437	Elaan	2005	John Abraham 	Ameesha Patel	Guddu Dhanoa	Drama	5.4
+438	Deewane Huye Pagal	2005	Akshay Kumar 	Rimi Sen	Vikram bhatt	Drama	5.3
+439	My Wife's Murder	2005	Anil Kapoor	Nandana Sen	jijy philip	thriller	6.2
+440	Bewafaa	2005	Akshay Kumar	Kareena Kapoor	Dharmesh Darshan	Drama	5.3
+441	Kyon Ki	2005	Salman khan	Rimi Sen	priyadarshan	Drama	5.5
+442	Chocolate	2005	Emraan Hashmi	Tanushree Dutta	Vivek agnihotri	Crime,Thriller	4.8
+443	Tango Charlie	2005	Ajay Devgan	Nandana Sen	Mani shankar	Drama	6
+444	Dosti: Friends Forever	2005	Akshay Kumar	Kareena Kapoor	Suneel Darshan	Drama,Romance	5.5
+445	Neal 'n' Nikki	2005	Uday Chopra	Tanishaa Mukharji	Arjun Sablok	Drama,Romance,Music	3.2
+446	D	2005	Randeep Hooda 	Isha Koppikar	Vishrant Sawant	Thriller	6.8
+447	Ek Ajnabee	2005	Amitabh Bachhan 	Perizaad zorabian	apoorva lakhia	Thriller	5.2
+448	Koi Mere Dil Main Hai	2005	Priyanshu Chatterjee	Dia Mirza	Deepak Ramsay	Drama	4.8
+449	Jo Bole So Nihal	2005	Sunny Deol	Nupur mehta	rahul rawail	Thriller	3.5
+450	Vaah! Life ho toh Aisi	2005	Shahid Kapoor	Amrita Rao	Mahesh Manjrekar	comedy,music	4.4
+451	Zeher	2005	Emraan Hashmi	Udita Goswami	Mohit Suri	Thriller	5.4
+452	Main Aisa Hi Hoon	2005	Ajay Devgan	Sushmita Sen	Harry Baweja	Drama	4.7
+453	Apaharan	2005	Ajay Devgan	Bipasha Basu	Prakash Jha	Drama, Crime	7.5
+454	Insaan	2005	Akshay Kumar	Esha Deol	K. Subhash	Drama	4.6
+455	Aashiq Banaya Aapane	2005	Emraan Hashmi	Tanushree Dutta	Aditya Datt	Drama	4.2
+456	Dil jo bhi Kahey..	2005	Amitabh Bachchan	bhumika chawala	Romesh Sharma	Drama, Romance	4.8
+457	Ek Khiladi Ek Haseena	2005	Fardeen Khan	Koena Mitra	Suparn Verma	Thriller	5.8
+458	Naina 	2005	Anuj Swahney	Urmila Matondkar	Shripal Morakhia	Thriller	4.3
+459	Viruddh	2005	John Abraham	Anusha Dandekar	Mahesh Manjrekar	Drama	7.1
+460	Shabd	2005	Sanjay Dutt	Aishwarya rai	Leena Yadav	Drama	5.2
+461	Mr Ya Miss	2005	Ritesh Deshmukh	Anatara Mali	Antara Mali	Drama	3.6
+462	Veer-Zaara	2004	shahrukh khan	prity zinta	Yash chopra	Drama,Romance	7.8
+463	Main Hoon Na	2004	shahrukh khan	sushmita sen	Farah Khan	Drama,Thriller	7
+464	Swades	2004	shahrukh khan	gayatri joshi	Ashutosh Gowariker	Drama,Music	8.2
+465	Khakee	2004	Akshay Kumar	Aishwarya rai	rajkumar santoshi	Drama	7.4
+466	Dhoom	2004	john Abraham	Bipasha Basu	Sanjay Gadhavi	Thriller	6.7
+467	Lakshya	2004	Hrithik Roshan	Prity Zinta	Farhan Akhtar	Drama	7.2
+468	Yuva	2004	Ajay Devgan	Esha Deol	Mani ratnam	Drama,Crime	7.4
+469	Aitraaz	2004	Akshay Kumar	Kareena Kapoor	abbas burmawala	thriller	6.6
+470	Hum Tum	2004	Saif Ali Khan	Rani Mukharjee	Kunal Kohli	Comedy,Drama,Music	7
+471	Ek  Hasina Thi	2004	Saif Ali Khan	Urmila Matondkar	Sriram Raghwan	Drama,thriller	7.6
+472	Murder	2004	Emraan Hashmi	Mallika Sharawat	Anurag Basu	Drama,thriller	5.4
+473	Mujhse Shaadi Karogi	2004	Salman Khan	Priyanka chopra	David Dhavan	Drama,Comedy	6.7
+474	Raincoat	2004	Ajay Devgan	Aishwarya rai	Rituparno Ghosh	Drama	7.6
+475	Rudraksh	2004	Sanjay Dutt	Bipasha Basu	Mani shankar	Drama,Thrillwe	2.6
+476	Fida	2004	Shahid Kapoor	Kin Sharma	Ken Ghosh	thriller,Drama	5.5
+477	Black Friday	2004	kay kay menon		Anurag Kashyap	Drama,Crime	8.5
+478	Phir Milenge	2004	Salman khan	Revathi	Revathi	Drama	6.1
+479	Hulchul	2004	Akshaye khanna	Kareena kapoor	priyadarshan	Comedy,Music	6.9
+480	Ab tak Chappan	2004	Nana patekar	Revathi	Shimit Amin	Drama	7.9
+481	Masti	2004	Ritesh Deshmukh	genelia dsouza	Indra Kumar	Comedy,Music	6.9
+482	Dev	2004	Fardeen Khan	Kareena kapoor	Govind Nilhani	Drama	4.9
+483	taarzan: the wonder Car	2004	Vatsal seth	Aisha takiya	abbas burmawala	comedy,Music	4.4
+484	Dil Ne Jise Apna Kaha	2004	Salman khan	Prity Zinta	atul agnihotri	Comedy,Music	4.4
+485	Aetbaar	2004	john abraham	bipasha basu	vikram bhatt	Thriller	4.6
+486	Musafir	2004	sanjay dutt	sameera reddy	sanjay gupta	Drama,thriller	5.5
+487	Garv: Pride and Honour	2004	salman khan	shilpa shetty	puneet issar	Drama	5.5
+488	Gayab	2004	Tushar Kapoor 	antara mali	Prawaal Raman	Fantasy	4.2
+489	Girlfriend	2004	Ashish chaudhary	Amrita arora	Karan Razdan	Drama	3.2
+490	King of Bollywood	2004	Om puri	sophie dahl	piyush jha	comedy,music	6.5
+491	Deewar	2004	Sanjay dutt	amrita rao	Milan Luthria	Drama	6
+492	Vaastu Shastra	2004	J. D. Chakravarthy	Ahaas Channa	saurabh narang	thriller,Mystry	4.9
+493	Rakht	2004	sunil shetty	bipasha basu	Mahesh Manjrekar	thriller	3.7
+494	Naach	2004	abhishek bachchan	amrita arora	Ram Gopal Varma	romance,drama	4.2
+495	Dobara	2004	jackie shroff	raveena tandon	shashi ranjan	drama	3.1
+496	Aan: Men at work	2004	akshay kumar	raveena tandon	madhur bhandarkar	thriller	5.7
+497	I Proud to be indian	2004	Sohail Khan	hina tasleem	puneet sira	drama,action	6.1
+498	Dil MAange More	2004	Shahid Kapoor	ayesha takia	anant mahadevan	drama	5.1
+499	Kismat	2004	bobby deol	priyank chopra	gudu dhano	drama 	3.7
+500	Madhoshi	2004	johan abraham	bipasha basu	tanveer khan	drama	4.5
+501	Yeh Lamhe Judaai ke	2004	shahrukh khan	raveena tandon	birendra nath tiwari	drama	3.8
+502	Hawas	2004	anil dhawan	bindu	saawan kumar tak	drama	6.4
+503	Bride and Prejudice	2004	martin hendarson	aishwarya rai	gurinder chadha	drama	6.1
+504	Dil Bechara Pyaar Ka Maara	2004	aslam khan 	divya palat	onkar nath mishra	comedy,music	4
+505	Ek se badhkar ek	2004	sunil shetty	raveena tandon	kunan shah	thriller	4.7
+506	Suno Sasurjee	2004	aftab Shivdasani	ameesha patel	vimal kumar	drama	5
+507	Aabra Ka Daabra	2004	prabhu deva	hansika motwani	dheeraj kumar	fantasy	2.3
+508	Asambhav	2004	arjun rampal	priyank chopra	rajeev rai	thriller	3.4
+509	Kis Kis Ki Kismat	2004	dharmendra deol	malika sherawat	govind menon	drama	2.5
+510	Insaaf: The Justice	2004	mohan joshi	kunika	shey srivastsav	drama	4
+511	Kal ho na ho	2003	shahrukh khan	Prity zinta	Nikkhil Advani	Drama, Comedy	8
+512	koi mil gaya	2003	Hrithik Roshan	Prity zinta	Rakesh Roshan	Fantacy, Drama	7.1
+513	Baghban	2003	Amitabh Bachhan	Hema Malini	Ravi Chopra	Drama, Romance	7.4
+514	Munna Bhai M.B.B.S.	2003	Sanjay Dutt	Gracy Singh	Rajkumar Hirani	Drama	8.2
+515	Hungama	2003	Akshaye Khanna	Rimi Sen	Priyadarshan	Drama	7.5
+516	Gangajal	2003	Ajay Devgan	Gracy Singh	Prakash Jha	Drama	7.8
+517	Bhoot	2003	Ajay Devgan	Urmila Matondkar	Ram Gopal Varma	Thriller	6.5
+518	Tere Naam	2003	Salman Khan 	Bhumika Chawala	Satish Kaushik	Drama	7.1
+519	Chalte Chalte	2003	shahrukh khan	Rani Mukharjee	Aziz Mishra	Drama	6.5
+520	Andaaz	2003	Akshay Kumar	Priyanka Chopra	Raj Kanwar	Drama, Romance	5.3
+521	The Hero	2003	Sunny Deol	Priyanka Chopra	Anil Sharma	Thriller	5.2
+522	LOC Kargil	2003	Ajay Devgan	Kareena Kapoor	J. P. Dutta	Drama	5.1
+523	Main Prem Ki Diwani Hoon	2003	Hrithik Roshan	Kareena Kapoor	Sooraj Barjatya	Drama	4
+524	Pinjar	2003	Manoj Bajpai	Urmila Matondkar	Chandraprakash Dwivedi	Drama	8
+525	Jism	2003	John Abraham	Bipasha Basu	Amit Saxena	Drama	5.2
+526	Darna Mana Hain	2003	Saif Ali Khan	Shilpa Shetty	Prawaal Raman	Adventure	6.3
+527	Isqh Vishq	2003	Shahid Kapoor	Amrita Rao	Ken Ghosh	Romance	6
+528	Qayamat:City under threat	2003	Ajay Devgan	Neha Dhupia	Harry Baweja	Thriller	4.7
+529	3 Deewarein	2003	Nagesh Kukunoor	Juhi Chawla	Nagesh Kukunoor	Drama	7.9
+530	Samay	2003	Jackie Shroff	Shushmita Sen	Robby Grewal	Drama, Thriller	6.9
+531	Maqbool	2003	Irfan Khan	Tabu	Vishal Bhardwaj	Drama, Crime	8.2
+532	haasil	2003	Irfan Khan	Hrishitaa Bhatt	Tigmanshu Dhulia	Drama, Romance	7.6
+533	Boom	2003	Amitabh Bachhan	Katrina Kaif	Kaizad Gustad	Drama, Thriller	2.3
+534	Zameen	2003	Ajay Devgan	Bipasha Basu	Rohit Shetty	Thriller	5.3
+535	Matrubhoomi	2003	Sushant Singh	Tulip Joshi	Manish Jha	Drama, Sci-fi	7.7
+536	Armaan	2003	Amitabh Bachchan	Priety Zinta	Honey Irani	Drama, Romance	5.2
+537	Kuch Naa Kaho	2003	Abhishekh Bachchan	Aishwarya Rai	Rohan Sippy	Drama	5.4
+538	Jhankaar Beats	2003	Sanjay Suri	Juhi Chawla	Sujoy Ghosh	Comedy, Romance	7.2
+539	Chura Liyaa Hai Tumne	2003	Zayed Khan	Esha Deol	Sangeet Sivan	Thriller	3.7
+540	Main Madhuri Banna Chahti hoon	2003	Rajpal Mali	Antara Mali	Chandan Arora	Comedy, Msuic	6
+541	Chori Chori	2003	Ajay Devgan	Rani Mukharjee	Vikram Lutharia	Comedy, Music	4.8
+542	Ek aur Ek Gyarah	2003	Govinda	Amrita Arora	David Dhawan	Comedy, Music	5.2
+543	Calcutta Mail	2003	Anil Kapoor	Rani Mukharjee	Sudhir Mishra	Thriller	5.7
+544	Dil Ka Rishta	2003	Arjun Rampal	Aishwarya Rai	Naresh Malhotra	Romance	4.7
+545	Hawa	2003	Shahbaz Khan	Tabu	Guddu Dhanoa	Horror,Thriller	3.3
+546	Footpath	2003	Emraan Hashmi	Bipasha Basu	Vikram Bhatt	Drama, Crime	5.3
+547	Waisa Bhi Hota Hai 2	2003	Arshad Warsi	Sandhya Mridul	Shashanka Ghosh	Action	7.3
+548	Chameli	2003	Rahul Bose	Kareena Kapoor	Sudhir Mishra	Drama	7.1
+549	Raghu Romeo	2003	Vijay Raaz	Maria Goretti	Rajat Kapoor	Drama	6.9
+550	Saaya	2003	John Abraham	Tara Sharma	Anurag Basu	Drama	5.8
+551	Nayee Padosan	2003	mahek chahal	anuj sawhney	tharunkumar	comedy,music,drama	5.4
+552	Stumped	2003	salman khan 	raveena tandon	gaurav pandey	sport	2.6
+553	Dhund:The Fog	2003	apurva agnihotri	aditi govitrikar	shyam ramsay	thriller aventure	2.3
