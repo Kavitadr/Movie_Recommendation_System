@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Nov  5 10:40:29 2019
+
+@author: dell
+"""
+
 
 
 from tkinter import *
@@ -16,10 +23,10 @@ from matplotlib.figure import Figure
 global tkvar2
 path="datamovieset.csv"
 df=pd.read_csv(path,error_bad_lines=False)
-path1="choice.csv"
+#path1="choice.csv"
 col_name=['index','title','release date','hero','heroine','director','genre','rating']
-df1=pd.read_csv(path1,error_bad_lines=False)
-df2=pd.read_csv("choice1.csv",error_bad_lines=False)
+#df1=pd.read_csv(path1,error_bad_lines=False)
+#df2=pd.read_csv("choice1.csv",error_bad_lines=False)
 
 def survey():
     global survey_screen
@@ -86,7 +93,7 @@ def survey_sucess():
     
     Button(survey_success_screen, text="CONTENT BASED ", fg="white",command=survey,bg="Deep Pink",height=5,width=30,font=("Calibri", 14,'bold')).pack()
     Label(survey_success_screen, text="",bg="turquoise").pack()
-    Button(survey_success_screen, text="COLLABORATIVE FILTERING", fg="white",command=col1,bg="Deep Pink",height=5,width=30,font=("Calibri", 14,'bold')).pack()
+    Button(survey_success_screen, text="COLLABORATIVE FILTERING", fg="white",command=collaborative,bg="Deep Pink",height=5,width=30,font=("Calibri", 14,'bold')).pack()
     Label(survey_success_screen, text="",bg="turquoise").pack()
 '''def resultd():
     global re_success_screen
@@ -157,6 +164,7 @@ def similarity():
     #print(result['index'],result['title'],result['release date'],result['hero'],result['heroine'],result['director'],result['genre'],result['ratings'])
     print(result1)#['title'],result['ratings'])
     #r=[s1,s2,s3]
+    
     #result=pd.concat(r,sort=true)
     #print(result)
     '''row = [ch,ch1,ch2]
@@ -177,9 +185,9 @@ def similarity():
             readFile1.close()'''
     #result=pd.concat(result,sort=True)
     
-    #resultt=result1.sort_values(by='ratings',ascending=False)
-    m_name=result1['title']
-    rate=result1['ratings'].astype(int)
+    resultt=result1.sort_values(by='ratings',ascending=False)
+    m_name=resultt['title'].head(5)
+    rate=resultt['ratings'].astype(int).head(5)
     col=['green','pink','blue','yellow','red','blue','purple']
     Label(result_success_screen,text="",height=5,bg="turquoise").pack()
     figure2=Figure(figsize=(5,4),dpi=100)
@@ -221,7 +229,7 @@ def similarity():
     
 
 
-def col1():
+def collaborative():
     global col1_success_screen
     global tkvar4
     
@@ -241,7 +249,6 @@ def col1():
     #global tkvar
     #tkvar =StringVar(root)
    
-    
     tkvar4=StringVar(root1)
     #col1_success_screen = Toplevel(main_screen)
     #col1_success_screen.title("Success")
@@ -251,9 +258,9 @@ def col1():
     Label(mainframe2,text="Select one of your favorite movie",width="300",height="5",fg="white",bg="midnight blue",font=("Calibri", 13)).pack()
     popupMenu=OptionMenu(mainframe2,tkvar4,*df['title']).pack()
     
-    Button(mainframe2,text="SUBMIT", height="3", width="30",bg="red",command=col).pack() 
+    Button(mainframe2,text="SUBMIT", height="3", width="30",bg="red",command=collaborative_result).pack() 
     
-def col():
+def collaborative_result():
     
     global col_success_screen
     col_success_screen = Toplevel(main_screen)
@@ -262,26 +269,9 @@ def col():
     col_success_screen.config(bg="turquoise")
    
     
-    '''i=0
-    print("Top 5 similar movies to "+movie_user_likes+" are:")
-    for element in sorted_similar_movies:
-        dp=get_index_from_title(movie_user_likes)
-        pd1=get_title_from_index(dp)
-        #Label(col_success_screen, text=pd1, fg="red").pack()
-        #print(pd1)
-        #dff33=pd.read_csv('datamovieset.csv',index_col='index')    
-        #f=dff33.loc[pd1]
-        #Label(col_success_screen, text=f['title'], fg="red").pack()
-        
-        i=i+1
-        if i>=5:
-            break
-
-    '''
+    
     features = ['hero','genre','title']
-
     df[features].head(3)
-
 
     for feature in features:
         df[feature] = df[feature].fillna('')
@@ -398,18 +388,24 @@ def register():
     register_screen.geometry("300x250")
     register_screen.config(bg="turquoise")
     global username
+    global name
     global password
     global username_entry
     global password_entry
+    global name_entry
     username = StringVar()
     password = StringVar()
- 
+    name = StringVar()
     Label(register_screen, text="Please enter details below", fg="white",bg="midnight blue",width=300,height=3).pack()
     Label(register_screen, text="",bg="turquoise").pack()
     username_lable = Label(register_screen, text="Username * ",bg="turquoise")
     username_lable.pack()
     username_entry = Entry(register_screen, textvariable=username)
     username_entry.pack()
+    name_lable = Label(register_screen, text="Enter Full Name * ",bg="turquoise")
+    name_lable.pack()
+    name_entry = Entry(register_screen, textvariable=name)
+    name_entry.pack()
     password_lable = Label(register_screen, text="Password * ",bg="turquoise")
     password_lable.pack()
     password_entry = Entry(register_screen, textvariable=password, show='*')
@@ -440,10 +436,12 @@ def login():
  
     global username_login_entry
     global password_login_entry
- 
+    global name_verify
+   
     Label(login_screen, text="Username ",bg="turquoise").pack()
     username_login_entry = Entry(login_screen, textvariable=username_verify)
     username_login_entry.pack()
+    
     Label(login_screen, text="",bg="turquoise").pack()
     Label(login_screen, text="Password ",bg="turquoise").pack()
     password_login_entry = Entry(login_screen, textvariable=password_verify, show= '*')
@@ -457,10 +455,14 @@ def register_user():
  
     username_info = username.get()
     password_info = password.get()
+    name_info = name.get()
  
     file = open(username_info, "w")
     file.write(username_info + "\n")
-    file.write(password_info)
+    file.write(name_info+"\n")
+    file.write(password_info+"\n")
+    
+    file.write()
     file.close()
  
     username_entry.delete(0, END)
